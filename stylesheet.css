@@ -1,0 +1,41 @@
+body {
+  background-color:#1E4060;
+}
+h1{font-weight:bold;
+color:#1C25A1;
+}
+h2{font-style:italic;
+}
+p{font-size:14pt;
+	font-family:helvetica;
+}
+ul{font-size:13pt;
+	font-family:Veranda;
+}
+/* this is where your resume would go */
+.content{
+  background-color:#B3E9F3;
+  width:70%; /* set the width you want for the div */
+  margin: 0 auto; /* used to center the div */
+  text-align:left; /* left justifies the text inside of the div */
+  padding:20px;
+  font-family:arial;
+}
+
+
+/* This is for adding a border to the photos */
+.picborder{
+	border:5px solid #1E4060;
+	padding:2px;
+}
+
+/* Provide a border around the center content */
+.cframe{
+	border:5px solid #1C25A1;
+	padding:15px;
+	margin: 5px;
+}
+
+
+	
+
